@@ -8,6 +8,6 @@
 iasGitHub/iasGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Salut je suis @iasGitHub, élève-ingénieur en cycle d'ingénieur en techniques informatiques à l'ISI-KOMUNIK de dakar. 
-Je suis intéressé par l'administration des bases de données ainsi que la programm. J'apprends actuellement la programmation orientée objet via les langages comme JAVA, PHP et ASP.NET
-Je cherche à collaborer pour des défis qui me permettront de consolider mes acquis dans le domaine de l'informatique en général.
+Je m'appelle idriss amadou sall, apprenant à la fabrique simplon dans la promotion 4 où je suit une formation en développement web et web mobile.
+Je suis pationné de l'informatique en général et j'aimerais me spécialiser dans l'administration des bases de données.
+#ias
