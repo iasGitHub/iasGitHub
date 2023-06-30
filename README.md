@@ -8,6 +8,6 @@
 iasGitHub/iasGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Je m'appelle idriss amadou sall, apprenant à la fabrique simplon dans la promotion 4 où je suis une formation en développement web et web mobile.
-Je suis pationné de l'informatique en général et j'aimerais me spécialiser dans le développement d'appications web en court terme et dans l'administration des bases de données en long terme.
+Je m'appelle idriss amadou sall, informaticien sortant de la fabrique simplon dans la promotion 4 où j'ai bénéficié d'une formation en développement web et web mobile.
+Je suis pationné de l'informatique en général et le développement d'appications. Par ailleurs j'ai des atouts/compétences dans l'administration des bases de données.
 #ias
