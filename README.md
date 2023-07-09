@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iasGitHub
 - 👀 I’m interested in Spring Boot & Angular projects.
-- 🌱 I’m currently learning JHipster.
+- 🌱 I’m currently learning Odoo Development.
 - 💞️ I’m looking to collaborate on Java projects.
 - 📫 My adress mail is : kalsjunior17@gmail.com
 
